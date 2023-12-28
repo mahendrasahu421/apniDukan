@@ -1,0 +1,7 @@
+/**
+  Styles of customer
+**/
+
+.border-r4 > .row {
+    border-radius: 4px;
+}
